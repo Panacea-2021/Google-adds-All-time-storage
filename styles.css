@@ -278,7 +278,7 @@ h1 {
 .phone-panel {
   background: #ffffff;
   color: var(--navy);
-  border: 1px solid var(--line);
+  border: 2px solid var(--navy);
   border-radius: var(--radius);
   padding: 0.85rem;
 }
