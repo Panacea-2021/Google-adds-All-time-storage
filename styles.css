@@ -753,9 +753,9 @@ input:focus, select:focus, textarea:focus {
 
 .final-phone .call-number {
   color: var(--navy);
-  font-size: clamp(2.2rem, 8vw, 4rem);
+  font-size: clamp(1.35rem, 3.5vw, 1.75rem);
   font-weight: 800;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
 }
 
 .final-actions {
